@@ -1,0 +1,3 @@
+const BUY_ICECREAM = "BUY_ICECREAM";
+
+export { BUY_ICECREAM };
